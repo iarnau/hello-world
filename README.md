@@ -2,7 +2,7 @@
 practise
 hola que tal
 # Prueba de Markdown
-## PRimera Prueba
+## Primera Prueba
 ##### Esto es para aprender a escribir con Markdown
 ##### **Para poder notar** la diferencia entre *diferentes letras* 
 ## prioridades

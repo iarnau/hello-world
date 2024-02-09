@@ -5,10 +5,11 @@ hola que tal
 ## Primera Prueba
 ##### Esto es para aprender a escribir con Markdown
 ##### **Para poder notar** la diferencia entre *diferentes letras* 
-## prioridades
-1. hoy
-2. mañana
-3. pasado
+## Prioridades:
+1. Hoy
+2. Mañana
+3. Pasado
+4. 
 > así hacemos una cita
 >
 > > así una cita más metida

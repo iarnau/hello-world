@@ -13,8 +13,3 @@ hola que tal
 >
 > > así una cita más metida
 
-| Prioridades   | No-Prioridades| |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |

@@ -5,15 +5,16 @@ hola que tal
 ## PRimera Prueba
 ##### Esto es para aprender a escribir con Markdown
 ##### **Para poder notar** la diferencia entre *diferentes letras* 
-##prioridades
+## prioridades
 1. hoy
 2. mañana
 3. pasado
 > así hacemos una cita
 >
 > > así una cita más metida
-|lunes | Martes|
-|------|-------|
-|prio 1| hola  |
-|prio2 | adiós |
 
+| Prioridades   | No-Prioridades| |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
